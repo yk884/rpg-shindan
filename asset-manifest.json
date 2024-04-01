@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.a126bf8a.css",
-    "main.js": "/static/js/main.c2859a0d.js",
-    "static/media/top-image.png": "/static/media/top-image.946f14703c2972f47511.png",
-    "static/media/wizard.png": "/static/media/wizard.69fde2d206172ab3db98.png",
-    "static/media/warrior.png": "/static/media/warrior.4ef4277de33b7f2b5b3d.png",
-    "static/media/healer.png": "/static/media/healer.51901e8ae2a5e930a2b2.png",
-    "static/media/hunter.png": "/static/media/hunter.59c2b9196e45bba43a86.png",
-    "index.html": "/index.html",
-    "main.a126bf8a.css.map": "/static/css/main.a126bf8a.css.map",
-    "main.c2859a0d.js.map": "/static/js/main.c2859a0d.js.map"
+    "main.css": "/rpg-shindan/static/css/main.a126bf8a.css",
+    "main.js": "/rpg-shindan/static/js/main.a19e3a4e.js",
+    "static/media/top-image.png": "/rpg-shindan/static/media/top-image.946f14703c2972f47511.png",
+    "static/media/wizard.png": "/rpg-shindan/static/media/wizard.69fde2d206172ab3db98.png",
+    "static/media/warrior.png": "/rpg-shindan/static/media/warrior.4ef4277de33b7f2b5b3d.png",
+    "static/media/healer.png": "/rpg-shindan/static/media/healer.51901e8ae2a5e930a2b2.png",
+    "static/media/hunter.png": "/rpg-shindan/static/media/hunter.59c2b9196e45bba43a86.png",
+    "index.html": "/rpg-shindan/index.html",
+    "main.a126bf8a.css.map": "/rpg-shindan/static/css/main.a126bf8a.css.map",
+    "main.a19e3a4e.js.map": "/rpg-shindan/static/js/main.a19e3a4e.js.map"
   },
   "entrypoints": [
     "static/css/main.a126bf8a.css",
-    "static/js/main.c2859a0d.js"
+    "static/js/main.a19e3a4e.js"
   ]
 }
