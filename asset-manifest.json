@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rpg-shindan/static/css/main.a126bf8a.css",
-    "main.js": "/rpg-shindan/static/js/main.a19e3a4e.js",
+    "main.js": "/rpg-shindan/static/js/main.c1be0826.js",
     "static/media/top-image.png": "/rpg-shindan/static/media/top-image.946f14703c2972f47511.png",
     "static/media/wizard.png": "/rpg-shindan/static/media/wizard.69fde2d206172ab3db98.png",
     "static/media/warrior.png": "/rpg-shindan/static/media/warrior.4ef4277de33b7f2b5b3d.png",
@@ -9,10 +9,10 @@
     "static/media/hunter.png": "/rpg-shindan/static/media/hunter.59c2b9196e45bba43a86.png",
     "index.html": "/rpg-shindan/index.html",
     "main.a126bf8a.css.map": "/rpg-shindan/static/css/main.a126bf8a.css.map",
-    "main.a19e3a4e.js.map": "/rpg-shindan/static/js/main.a19e3a4e.js.map"
+    "main.c1be0826.js.map": "/rpg-shindan/static/js/main.c1be0826.js.map"
   },
   "entrypoints": [
     "static/css/main.a126bf8a.css",
-    "static/js/main.a19e3a4e.js"
+    "static/js/main.c1be0826.js"
   ]
 }
